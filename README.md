@@ -1,3 +1,5 @@
 # Public Perceptions towards Autonomous Vehicle technology: A sentiment analysis using Twitter data
 ## By (Md Tanvir Ashraf, Md Younus Ahamed, and Anthony Carrola)
 In this project, the authors attempt to model public perceptions of autonomous vehicles (AVs) using multiple months of twitter data and around one million tweets of data. For the sentiment analysis, the BERT model is used and the results are compared with those of using the SVM model. The results show that public opinion on twitter, at least, seems to be improving. The authors also attempt to model public sentiment on shared AV (SAV) showing that the public is more hesitant of their use after COVID-19.
+
+We build Bidirectional Encoder Representations from Transformers (BERT) and train the model with our dataset. We used 95% of our data for training and 5% for testing. We have 72% precision, 78% recall and 75% f1-score for negative tweets (class 0). And we get 95% precision, 93% recall and 94% f1-score for positive tweets (class 1). Accuracy is the foremost performance measure for a classification mode. The overall accuracy of our model is 90% which is excellent.
