@@ -1,2 +1,3 @@
-# CS560-Final-Project-Tanvir-Younus-Anthony
-You can find the dataset and the code for BERT and SMV model here.
+# Public Perceptions towards Autonomous Vehicle technology: A sentiment analysis using Twitter data
+## Team (Md Tanvir Ashraf, Md Younus Ahamed, and Anthony Carrola)
+In this project, the authors attempt to model public perceptions of autonomous vehicles (AVs) using multiple months of twitter data and around one million tweets of data. For the sentiment analysis, the BERT model is used and the results are compared with those of using the SVM model. The results show that public opinion on twitter, at least, seems to be improving. The authors also attempt to model public sentiment on shared AV (SAV) showing that the public is more hesitant of their use after COVID-19.
